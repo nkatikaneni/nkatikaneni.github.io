@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nanda-katikaneni
+  - nkatikaneni
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - cisagov/ScubaGear
+  - nanda-katikaneni/saf-training-lab-environment
+  - nanda-katikaneni/security-testing-class
+  - nkatikaneni/nkatikaneni.github.io
