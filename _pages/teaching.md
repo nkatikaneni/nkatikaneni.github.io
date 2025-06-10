@@ -7,6 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Occassionally, I teach courses on: Cybersecurity, Secure SDLC, and Performance Engineering. This page will provide details of the courses while I am teaching them. Currently (as of June 2025) I am not actively teaching any course - for future courses, watch this space. 
 
-Organize your courses by years, topics, or universities, however you like!
+In the past, I have taught courses on: Network Security, Cloud Security, Secure SDLC, Performance Testing, Software Development, and Physics. 
